@@ -1,7 +1,11 @@
 from fastapi import FastAPI
 
-app = FastAPI()
+app=FastAPI()
 
-@app.get("/")
-def read_root():
-    return {"message": "FastAPI is working! hwllo swapnali"}
+@app.get('/')
+def hello():
+    return {'message':'Swapnali'}
+
+@app.get('/hello')
+def demo():
+    return {'demo':'Example'}
