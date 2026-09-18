@@ -1,0 +1,42 @@
+{
+    "P005": {
+        "name": "Aarav Sharma",
+        "age": 28,
+        "gender": "Male",
+        "phone": "9876543210",
+        "diagnosis": "Fever",
+        "doctor": "Dr. Mehta"
+    },
+    "P006": {
+        "name": "Priya Patil",
+        "age": 34,
+        "gender": "Female",
+        "phone": "9823456712",
+        "diagnosis": "Migraine",
+        "doctor": "Dr. Joshi"
+    },
+    "P007": {
+        "name": "Rohan Deshmukh",
+        "age": 45,
+        "gender": "Male",
+        "phone": "9765432189",
+        "diagnosis": "Diabetes",
+        "doctor": "Dr. Kulkarni"
+    },
+    "P008": {
+        "name": "Sneha More",
+        "age": 26,
+        "gender": "Female",
+        "phone": "9898765432",
+        "diagnosis": "Viral Infection",
+        "doctor": "Dr. Shah"
+    },
+    "P009": {
+        "name": "Vikram Joshi",
+        "age": 52,
+        "gender": "Male",
+        "phone": "9812345678",
+        "diagnosis": "Hypertension",
+        "doctor": "Dr. Patil"
+    }
+}
